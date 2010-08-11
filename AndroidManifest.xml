@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      android:installLocation="internalOnly" package="com.ubuntustudio.theme" android:versionName="1.0.12" android:versionCode="1012">
+      android:installLocation="internalOnly" package="com.ubuntustudio.theme" android:versionName="1.0.13" android:versionCode="1013">
     <application android:label="@string/theme_title" android:icon="@drawable/theme_icon">
         <activity android:name=".main"
                   android:label="@string/theme_title">
