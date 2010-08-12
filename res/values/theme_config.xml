@@ -5,6 +5,7 @@
 <!-- To devs, read here on howto format/style your descriptions -->
 <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
 <string name="theme_description">This theme is based on the UbuntuStudio GNOME theme.&lt;br/>
+For full effect, set all text to #ffcccccc and everything else to #ff191919 in CM6.&lt;br/>
 For more Ubuntu themes, visit &lt;a href="http://www.lineardroid.co.uk">lineardroid.co.uk&lt;/a>.&lt;br/>
 Or follow @lineardroid on twitter for themes, news, reviews, tutorials and more.&lt;br/>
 All images from this theme are from free, open source applications.</string>
